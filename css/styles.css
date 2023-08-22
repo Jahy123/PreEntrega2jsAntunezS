@@ -1,0 +1,13 @@
+body {
+    background-image: url(./assest/manuel-nageli-NsgsQjHA1mM-unsplash.jpg);
+    width: 100vh;
+    background-size: cover;
+    font-size: 3rem;
+}
+h1 {
+    color: aliceblue;
+    display: inline;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
